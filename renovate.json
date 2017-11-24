@@ -1,0 +1,11 @@
+
+{
+  "extends": [
+    "config:base",
+    ":semanticCommitTypeAll(chore)",
+    ":semanticCommitScope(package)",
+    ":rebaseStalePrs",
+    ":label(renovate)",
+    ":assignAndReview(rarkins)"
+  ]
+}
