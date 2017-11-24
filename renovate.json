@@ -7,20 +7,17 @@
     "jarrodldavis"
   ],
   "dependencies": {
-    "semanticPrefix": "chore(package):"
-  },
-  "devDependencies": {
-    "semanticPrefix": "chore(package):"
+    "semanticCommitType": "chore"
   },
   "labels": [
     "renovate"
   ],
   "pin": {
-    "semanticPrefix": "chore(package):"
+    "semanticCommitType": "chore"
   },
   "rebaseStalePrs": true,
   "reviewers": [
     "jarrodldavis"
   ],
-  "semanticPrefix": "chore(package):"
+  "semanticCommitScope": "package"
 }
