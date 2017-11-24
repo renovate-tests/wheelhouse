@@ -5,7 +5,7 @@
     ":semanticCommitTypeAll(chore)",
     ":semanticCommitScope(package)",
     ":rebaseStalePrs",
-    "label(renovate)",
-    "assignAndReview(jarrodldavis)"
+    ":label(renovate)",
+    ":assignAndReview(jarrodldavis)"
   ]
 }
