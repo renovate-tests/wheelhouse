@@ -13,9 +13,6 @@
   "labels": [
     "renovate"
   ],
-  "pin": {
-    "semanticCommitType": "chore"
-  },
   "rebaseStalePrs": true,
   "reviewers": [
     "jarrodldavis"
