@@ -4,15 +4,8 @@
     "config:base",
     ":semanticCommitTypeAll(chore)",
     ":semanticCommitScope(package)",
-    ":rebaseStalePrs"
-  ],
-  "assignees": [
-    "jarrodldavis"
-  ],
-  "labels": [
-    "renovate"
-  ],
-  "reviewers": [
-    "jarrodldavis"
+    ":rebaseStalePrs",
+    "label(renovate)",
+    "assignAndReview(jarrodldavis)"
   ]
 }
