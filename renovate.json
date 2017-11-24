@@ -6,6 +6,6 @@
     ":semanticCommitScope(package)",
     ":rebaseStalePrs",
     ":label(renovate)",
-    ":assignAndReview(jarrodldavis)"
+    ":assignAndReview(rarkins)"
   ]
 }
