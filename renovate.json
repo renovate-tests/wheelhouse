@@ -1,0 +1,26 @@
+
+{
+  "extends": [
+    ":library"
+  ],
+  "assignees": [
+    "jarrodldavis"
+  ],
+  "dependencies": {
+    "semanticPrefix": "chore(package):"
+  },
+  "devDependencies": {
+    "semanticPrefix": "chore(package):"
+  },
+  "labels": [
+    "renovate"
+  ],
+  "pin": {
+    "semanticPrefix": "chore(package):"
+  },
+  "rebaseStalePrs": true,
+  "reviewers": [
+    "jarrodldavis"
+  ],
+  "semanticPrefix": "chore(package):"
+}
