@@ -2,14 +2,12 @@
 {
   "extends": [
     "config:base",
+    ":semanticCommitTypeAll(chore)",
     ":semanticCommitScope(package)"
   ],
   "assignees": [
     "jarrodldavis"
   ],
-  "dependencies": {
-    "semanticCommitType": "chore"
-  },
   "labels": [
     "renovate"
   ],
