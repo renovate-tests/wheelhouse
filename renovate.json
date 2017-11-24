@@ -3,7 +3,8 @@
   "extends": [
     "config:base",
     ":semanticCommitTypeAll(chore)",
-    ":semanticCommitScope(package)"
+    ":semanticCommitScope(package)",
+    ":rebaseStalePrs"
   ],
   "assignees": [
     "jarrodldavis"
@@ -11,7 +12,6 @@
   "labels": [
     "renovate"
   ],
-  "rebaseStalePrs": true,
   "reviewers": [
     "jarrodldavis"
   ]
